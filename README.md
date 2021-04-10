@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Gmail Badge](https://img.shields.io/badge/-egor.kliutsuk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:egor.kliutsuk@gmail.com)](mailto:egor.kliutsuk@gmail.com) [![Github Badge](https://img.shields.io/badge/-Egor-kl-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Egor-kl/)](https://www.github.com/Egor-kl/)
+[![Gmail Badge](https://img.shields.io/badge/-egor.kliutsuk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:egor.kliutsuk@gmail.com)](mailto:egor.kliutsuk@gmail.com)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Egor-kl alt=Egor-kl /> </p>
 
