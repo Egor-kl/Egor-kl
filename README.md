@@ -23,4 +23,4 @@ Software Engineer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/xXxT0P-C0DERS-2013xXx/eShop-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xXxT0P-C0DERS-2013xXx&repo=eShop-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/jhointvirt/EShop" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jhointvirt&repo=EShop&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/xXxT0P-C0DERS-2013xXx/eShop-backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xXxT0P-C0DERS-2013xXx&repo=eShop-backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
